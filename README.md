@@ -1,4 +1,4 @@
-# anchore-updated_policy
+# Anchore: updated default_policy_bundle
 Updated Default Policy of Anchore 
 
 If you are using Anchore OpenSource and would like to update your default policy with a policy which covers comprehensive checks by using available Gates & Triggers of Anchore then please download this policy and add it to your Anchore Engine. Then, run your checks against this new policy. 
